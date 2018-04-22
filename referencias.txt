@@ -1,0 +1,5 @@
+Paper base
+https://pdfs.semanticscholar.org/6317/a749fe29467cdb36b0b3cef492940ee6beb9.pdf
+
+Biblioteca usada
+https://scikit-image.org
